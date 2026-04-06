@@ -4,10 +4,14 @@
 
 <img src="https://github.com/Dreamerol/Dreamerol/blob/6a3bc3cf9d4d9ddecf05e2a45a86d2ce5466b6da/ZPOCKER.jpg" alt="POCKER" style="width:100%; height:auto;">
 
-![Visual Studio](https://img.shields.io/badge/Dev%20Environment-Visual%20Studio-blue)
-![C++](https://img.shields.io/badge/Language-C++-yellow)
-![Procedural & Modular](https://img.shields.io/badge/Paradigms-Procedural%20%26%20Modular-orange)
-![Target Audience](https://img.shields.io/badge/Target-Audience%20Students-lightgrey)
+<div align="center">
+
+<img src="https://img.shields.io/badge/Dev%20Environment-Visual%20Studio-blue?style=for-the-badge" alt="Visual Studio" height="40">
+<img src="https://img.shields.io/badge/Language-C++-yellow?style=for-the-badge" alt="C++" height="40">
+<img src="https://img.shields.io/badge/Paradigms-Procedural%20%26%20Modular-orange?style=for-the-badge" alt="Paradigms" height="40">
+<img src="https://img.shields.io/badge/Target-Audience-Students-lightgrey?style=for-the-badge" alt="Target Audience" height="40">
+
+</div>
 
 
 ## 🚀 Overview
