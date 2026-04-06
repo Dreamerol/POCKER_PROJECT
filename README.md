@@ -56,7 +56,7 @@ Bridges classroom concepts with a playable, interactive project
 
 ---
 
-🌟 Why This Project Matters
+## 🌟 Why This Project Matters
 
 Poker Project is more than just a console game. It’s a bridge between concepts learned in class and real-world application. It demonstrates:
 
