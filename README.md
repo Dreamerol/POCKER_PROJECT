@@ -6,7 +6,11 @@
 
 </div>
 
+---
+
 <img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/6a3bc3cf9d4d9ddecf05e2a45a86d2ce5466b6da/ZPOCKER.jpg" alt="POCKER" style="width:100%; height:auto; margin-bottom: 20px;">
+
+---
 
 <img src="https://img.shields.io/badge/Dev%20Environment-Visual%20Studio-blue?style=for-the-badge" alt="Visual Studio" height="40">
 <img src="https://img.shields.io/badge/Language-C++-yellow?style=for-the-badge" alt="C++" height="40">
