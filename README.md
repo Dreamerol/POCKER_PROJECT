@@ -515,7 +515,7 @@ The project is about playing simple poker, so I decided to arrange the functiona
 6. If there is a tie - we go back to the beginning of the program: new dealing, new array of dealt cards, and the same algorithm is executed!
 
 
-
+<br>
 
 
 <p align="center">
